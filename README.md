@@ -1,2 +1,0 @@
-# espresso
-Espresso App Development
