@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="false" exportTarget="other" domain="pvk.pw" resolutions="1x,2x" timestamp="1444081575115">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="false" exportTarget="other" domain="pvk.pw" resolutions="1x,2x" timestamp="1444519198047">
   <folder name="css">
     <file name="site_global.css" crc="182423554"/>
     <file name="master_a-master.css" crc="392791185" ref="index"/>
-    <file name="index.css" crc="4133036777" ref="index"/>
-    <file name="iefonts_index.css" crc="3792257118" ref="index"/>
+    <file name="index.css" crc="13310878" ref="index"/>
+    <file name="iefonts_index.css" crc="222403813" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
     <file name="museutils.js" crc="275725342" ref="index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index"/>
   </folder>
-  <file name="index.html" crc="231280928" seo="true" mt="1444081392212" redirect="true"/>
+  <file name="index.html" crc="3900365562" seo="true" mt="1444519192364" redirect="true"/>
 </manifest>
